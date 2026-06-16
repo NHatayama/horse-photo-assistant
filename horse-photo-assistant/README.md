@@ -1,2 +1,2 @@
 # horse-photo-assistant
-Camera app which uses sounds to help horse owners capture photos with ears forward.
+AI-assisted equine photography app that uses attention sounds, burst capture, and expression detection to help riders and photographers capture better horse portraits.
